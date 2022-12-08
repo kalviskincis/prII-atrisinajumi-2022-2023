@@ -1,5 +1,6 @@
 import random
 
+
 class Kaulins:
     def __init__ (self, skaldnes = 6):
         self.skaldnes = skaldnes
